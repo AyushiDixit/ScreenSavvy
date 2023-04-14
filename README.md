@@ -17,7 +17,7 @@
 ##### Visual Studio Code
 1. Source Control (ctrl+shift+g)
 2. Clone from repository
-3. https://github.com/BreakfastDeluxe/FYP-23-S1-05.git
+3. https://github.com/AyshuDixit/ScreenSavvy.git
 4. Accept any authorization requests
 5. Choose location as htdocs(xampp) or www(wamp)
 6. Would you like to open folder in workspace? Yes
