@@ -35,3 +35,21 @@
 2. "3 dots" > pull/push > Pull from... > origin(select this!)
 3. select origin/main
 4. select sync changes
+
+
+System :  
+IDE : visual studio code 
+database : SSMS 19 (developer edition) , mysql (download both) and sql server if havent already downloaded. 
+language : Python ( have to download python 3.6 and above from python official website) 
+
+Libraries used ( will be updated as we continue to code.) 
+- use 'pip install' or 'pip3 install' based on your machine. 
+   1. pyodbc 
+   2. flask 
+   3. bcrypt
+   4. re
+
+For database : 
+
+- Using ssms 19 developer edition. 
+  1. create table UserDetails with columns : ( [username : varchar(50) ] ,[password : varbinary(max)]  ,[email : varchar(max) ] ,[phone : int ] ,[status : varchar(50) ]
