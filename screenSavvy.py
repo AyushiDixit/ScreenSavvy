@@ -126,3 +126,10 @@ def register():
         msg = 'Please fill out the form!'
     # Show registration form with message (if any)
     return render_template('register.html', msg=msg)
+
+
+#replcae html file here
+@app.route('/',methods=['GET', 'POST'])
+def landingPage():
+    return render_template('register.html')
+    # User is not loggedin redirect to login page
