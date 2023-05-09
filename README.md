@@ -22,7 +22,7 @@
 5. Choose location as htdocs(xampp) or www(wamp)
 6. Would you like to open folder in workspace? Yes
 
-###### git clone https://github.com/BreakfastDeluxe/FYP-23-S1-05
+###### git clone 
 
 ###### Selecting your branch
 1. VSCODE: Left Side of Screen, Source Control
@@ -38,16 +38,11 @@
 
 
 System :  
-IDE : visual studio code 
+IDE : visual studio code / Eclipse
 database : SSMS 19 (developer edition) , mysql (download both) and sql server if havent already downloaded. 
-language : Python ( have to download python 3.6 and above from python official website) 
+language : Java Sprint Boot
 
-Libraries used ( will be updated as we continue to code.) 
-- use 'pip install' or 'pip3 install' based on your machine. 
-   1. pyodbc 
-   2. flask 
-   3. bcrypt
-   4. re
+
 
 For database : 
 
