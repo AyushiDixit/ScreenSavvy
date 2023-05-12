@@ -42,6 +42,14 @@ IDE : visual studio code / Eclipse
 database : SSMS 19 (developer edition) , mysql (download both) and sql server if havent already downloaded. 
 language : Java Sprint Boot
 
+To create Spring Boot app: 
+Install JDK, depending which IDE you're using, install the relevant files 
+- Spring MVC 
+- Thymeleaf
+- Spring Security 
+- Spring Devtools 
+- Spring web 
+
 
 
 For database : 
